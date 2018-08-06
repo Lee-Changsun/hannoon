@@ -273,10 +273,10 @@
 
                         <configuration>
 
-                             <url>http://localhost:8080/server</url>
+                             <url>http://localhost:9100/manager/text</url>
 
                              <path>/hannoon</path>
-
+ 
                              <username>windowforsu</username>
 
                              <password>ckdtjs92</password>
